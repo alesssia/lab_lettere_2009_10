@@ -24,40 +24,40 @@ eventbrite:
 	
 <ul>
 	<li>In sede di esame dovete consegnare lo statino valido</li>
-	<li>Sono disponibili <a href="https://github.com/alesssia/lab_lettere_2009_10/assets/risultati_classe7.pdf">qui</a> i <b>risultati del pre-appello della Classe 7</b>. I risultati verranno anche pubblicati sul sito internet di Facolt&agrave;, alla voce Avvisi - Laboratorio di Informatica. <a href="https://github.com/alesssia/lab_lettere_2009_10/assets/risultati_classe7.pdf">Vedi</a>.</li>
-	<li>Sono disponibili <a href="https://github.com/alesssia/lab_lettere_2009_10/assets/risultati_classe8.pdf">qui</a> i <b>risultati del pre-appello della Classe 8</b>. I risultati verranno anche pubblicati sul sito internet di Facolt&agrave;, alla voce Avvisi - Laboratorio di Informatica. <a href="https://github.com/alesssia/lab_lettere_2009_10/assets/risultati_classe8.pdf">Vedi</a>.<br/>
+	<li>Sono disponibili <a href="https://alesssia.github.io/lab_lettere_2009_10/assets/risultati_classe7.pdf">qui</a> i <b>risultati del pre-appello della Classe 7</b>. I risultati verranno anche pubblicati sul sito internet di Facolt&agrave;, alla voce Avvisi - Laboratorio di Informatica</li>
+	<li>Sono disponibili <a href="https://alesssia.github.io/lab_lettere_2009_10/assets/risultati_classe8.pdf">qui</a> i <b>risultati del pre-appello della Classe 8</b>. I risultati verranno anche pubblicati sul sito internet di Facolt&agrave;, alla voce Avvisi - Laboratorio di Informatica.<br/>
     <b>Attenzione</b> :  entro l'11 giugno 2010 dovete consegnare lo statino al punto informativo in orario di apertura (palazzo nuovo, 5 piano, stanza 6, da luned&igrave; 7 a venerd&igrave; 11 giugno dalle 9.30 alle 11.30).</li>
 </ul>
 	
 <h3>Materiale Didattico</h3>
 
 <ul>
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/slidedecks/01-Introduzione.pdf">Introduzione</a></li>
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/slidedecks/02-Windows.pdf">Il sistema operativo Windows</a></li>
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/slidedecks/03-word.pdf">Word ed i documento di testo</a> e <a href="./03-word_EX.pdf">gli esercizi 	riepilogativi</a></li>
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/slidedecks/04-excel.pdf">Excel ed i fogli di calcolo</a> e <a href="./04-excel_EX.pdf">gli esercizi riepilogativi</a></li>
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/slidedecks/05-Internet.pdf">Internet e la posta elettronica</a></li>
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/slidedecks/Simulazione.pdf">Simulazione di esame</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/slidedecks/01-Introduzione.pdf">Introduzione</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/slidedecks/02-Windows.pdf">Il sistema operativo Windows</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/slidedecks/03-word.pdf">Word ed i documento di testo</a> e <a href="./03-word_EX.pdf">gli esercizi 	riepilogativi</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/slidedecks/04-excel.pdf">Excel ed i fogli di calcolo</a> e <a href="./04-excel_EX.pdf">gli esercizi riepilogativi</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/slidedecks/05-Internet.pdf">Internet e la posta elettronica</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/slidedecks/Simulazione.pdf">Simulazione di esame</a></li>
 </ul>	
 
 <h3>Testi degli Esami</h3>
 
 Preappelli
 <ul>	
-    <li><a href="https://github.com/alesssia/lab_lettere_2009_10/assets/Classe7.pdf">Testo pre-appello Classe 7</a></li>
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/assets/Classe8.pdf">Testo pre-appello Classe 8</a></li>
+    <li><a href="https://alesssia.github.io/lab_lettere_2009_10/assets/Classe7.pdf">Testo pre-appello Classe 7</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/assets/Classe8.pdf">Testo pre-appello Classe 8</a></li>
 </ul>
 			
 Appello del 28 giugno 2010
 <ul> 
- 	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/assets/Prova1.pdf">Primo Turno</a></li>
-    <li><a href="https://github.com/alesssia/lab_lettere_2009_10/assets/Prova2.pdf">Secondo Turno</a></li>
-    <li><a href="https://github.com/alesssia/lab_lettere_2009_10/assets/Prova3.pdf">Terzo Turno</a></li>
+ 	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/assets/Prova1.pdf">Primo Turno</a></li>
+    <li><a href="https://alesssia.github.io/lab_lettere_2009_10/assets/Prova2.pdf">Secondo Turno</a></li>
+    <li><a href="https://alesssia.github.io/lab_lettere_2009_10/assets/Prova3.pdf">Terzo Turno</a></li>
 </ul>
 
 Appello del 3 settembre 2010
 <ul> 
-	<li><a href="https://github.com/alesssia/lab_lettere_2009_10/assets//appello_settembre.pdf">Turno Unico</a></li>
+	<li><a href="https://alesssia.github.io/lab_lettere_2009_10/assets//appello_settembre.pdf">Turno Unico</a></li>
 </ul>
 		
 		
